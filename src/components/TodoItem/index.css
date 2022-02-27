@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.item-card-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete-button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 7px;
+  border-color: #ff0b37;
+  width: 75px;
+  height: 30px;
+}
